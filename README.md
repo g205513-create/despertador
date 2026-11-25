@@ -39,7 +39,7 @@ despertador-qr/
 ### 1. Pré-requisitos
 
 - Python 3.14.7 
-- Um celular Android com o app **IP Webcam ou Droidcam** instalado
+- Um celular Android ou ios com o app **IP Webcam ou Droidcam** instalado
 - PC e celular conectados na **mesma rede Wi-Fi**
 
 ### 2. Instalação
