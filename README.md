@@ -80,7 +80,6 @@ Defina o horário, deixe o celular com o IP Webcam ativo e vá dormir. Pela manh
 
 - [ ] Desafios lógicos como alternativa ao QR Code (ex.: resolver contas de matemática)
 - [ ] Interface para escolher o horário sem mexer no código
-- [ ] Volume do alarme aumentando aos poucos
 - [ ] Versão rodando direto no celular
 
 ##  Contribuições
